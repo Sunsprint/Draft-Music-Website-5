@@ -138,7 +138,7 @@
 }
 
 .u-section-2 .u-image-1 {
-  min-height: 506px;
+  min-height: 507px;
   background-image: url("images/181110-72861.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
@@ -149,8 +149,8 @@
 }
 
 .u-section-2 .u-image-2 {
-  background-image: url("images/favicon.png");
-  background-position: 50% 50%;
+  background-image: url("images/IMG_0284.png");
+  background-position: 0% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
 }
@@ -161,7 +161,7 @@
 
 .u-section-2 .u-image-3 {
   min-height: 253px;
-  background-image: url("images/181110-72381.jpg");
+  background-image: url("images/IMG_0289.png");
   background-position: 50% 50%;
   animation-duration: 1000ms;
 }
@@ -171,7 +171,7 @@
 }
 
 .u-section-2 .u-image-4 {
-  background-image: url("images/favicon.png");
+  background-image: url("images/IMG_03041.png");
   background-position: 50% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
@@ -182,7 +182,7 @@
 }
 
 .u-section-2 .u-image-5 {
-  background-image: url("images/favicon.png");
+  background-image: url("images/IMG_0299.png");
   background-position: 50% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
@@ -193,24 +193,13 @@
 }
 
 .u-section-2 .u-image-6 {
-  background-image: url("images/favicon.png");
-  background-position: 50% 50%;
-  min-height: 254px;
-  animation-duration: 1000ms;
-}
-
-.u-section-2 .u-container-layout-6 {
-  padding: 30px;
-}
-
-.u-section-2 .u-image-7 {
-  background-image: url("images/favicon.png");
+  background-image: url("images/IMG_0295.png");
   background-position: 50% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
 }
 
-.u-section-2 .u-container-layout-7 {
+.u-section-2 .u-container-layout-6 {
   padding: 30px;
 }
 
@@ -235,7 +224,7 @@
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 417px;
+    min-height: 418px;
   }
 
   .u-section-2 .u-image-2 {
@@ -255,10 +244,6 @@
   }
 
   .u-section-2 .u-image-6 {
-    min-height: 209px;
-  }
-
-  .u-section-2 .u-image-7 {
     min-height: 209px;
   }
 }
@@ -273,7 +258,7 @@
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 319px;
+    min-height: 320px;
   }
 
   .u-section-2 .u-image-2 {
@@ -289,14 +274,10 @@
   }
 
   .u-section-2 .u-image-5 {
-    min-height: 360px;
-  }
-
-  .u-section-2 .u-image-6 {
     min-height: 720px;
   }
 
-  .u-section-2 .u-image-7 {
+  .u-section-2 .u-image-6 {
     min-height: 480px;
   }
 }
@@ -311,7 +292,7 @@
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 359px;
+    min-height: 360px;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -354,19 +335,10 @@
   }
 
   .u-section-2 .u-image-6 {
-    min-height: 540px;
-  }
-
-  .u-section-2 .u-container-layout-6 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-2 .u-image-7 {
     min-height: 360px;
   }
 
-  .u-section-2 .u-container-layout-7 {
+  .u-section-2 .u-container-layout-6 {
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -382,7 +354,7 @@
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 226px;
+    min-height: 227px;
   }
 
   .u-section-2 .u-image-2 {
@@ -402,10 +374,6 @@
   }
 
   .u-section-2 .u-image-6 {
-    min-height: 340px;
-  }
-
-  .u-section-2 .u-image-7 {
     min-height: 227px;
   }
 }.u-section-3 {
@@ -729,7 +697,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 506px;
-  background-image: url("images/favicon.png");
+  background-image: url("images/IMG_0311.png");
   background-position: 50% 50%;
   animation-duration: 1000ms;
 }
@@ -739,7 +707,7 @@
 }
 
 .u-section-4 .u-image-2 {
-  background-image: url("images/favicon.png");
+  background-image: url("images/IMG_0314.png");
   background-position: 50% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
@@ -751,7 +719,7 @@
 
 .u-section-4 .u-image-3 {
   min-height: 253px;
-  background-image: url("images/favicon.png");
+  background-image: url("images/IMG_0316.png");
   background-position: 50% 50%;
   animation-duration: 1000ms;
 }
