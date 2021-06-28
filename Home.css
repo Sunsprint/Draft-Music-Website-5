@@ -57,8 +57,8 @@
 
 .u-section-1 .u-image-1 {
   min-height: 691px;
-  background-image: url("images/gyt-min1.jpg");
-  background-position: 12.38% 50%;
+  background-image: url("images/Copyof121217-3203a.jpg");
+  background-position: 50% 26.56%;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -244,7 +244,7 @@
   font-size: 1.125rem;
   text-transform: uppercase;
   letter-spacing: 2px;
-  margin: -14px auto 0 30px;
+  margin: 14px auto 0 30px;
   padding: 0;
 }
 
@@ -273,28 +273,27 @@
 }
 
 .u-section-2 .u-accordion-pane-1 {
-  min-height: 155px;
+  min-height: 273px;
   background-image: none;
 }
 
 .u-section-2 .u-container-layout-3 {
-  padding: 30px;
+  padding: 0;
 }
 
 .u-section-2 .u-text-3 {
   line-height: 1.8;
-  margin: -30px -30px 0;
+  margin: 30px 30px 0;
 }
 
 .u-section-2 .u-btn-2 {
   border-style: solid;
-  margin-left: 0;
-  margin-right: 0;
   font-size: 0.875rem;
   text-transform: uppercase;
   letter-spacing: 2px;
   background-image: none;
   font-weight: normal;
+  margin: 10px auto 0 30px;
 }
 
 .u-section-2 .u-accordion-item-2 {
@@ -314,16 +313,16 @@
 }
 
 .u-section-2 .u-accordion-pane-2 {
-  min-height: 150px;
+  min-height: 237px;
   background-image: none;
 }
 
 .u-section-2 .u-container-layout-4 {
-  padding: 30px;
+  padding: 0;
 }
 
 .u-section-2 .u-text-4 {
-  margin: -30px -30px 0;
+  margin: 0 31px;
 }
 
 .u-section-2 .u-accordion-item-3 {
@@ -424,13 +423,17 @@
   }
 
   .u-section-2 .u-text-3 {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 26px;
+    margin-right: 26px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-left: 26px;
   }
 
   .u-section-2 .u-text-4 {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 27px;
+    margin-right: 27px;
   }
 
   .u-section-2 .u-text-5 {
@@ -486,6 +489,20 @@
   .u-section-2 .u-accordion-1 {
     width: 330px;
   }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 767px) {
@@ -519,10 +536,6 @@
     margin-left: auto;
   }
 
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 358px;
-  }
-
   .u-section-2 .u-container-layout-2 {
     padding-left: 10px;
   }
@@ -530,16 +543,6 @@
   .u-section-2 .u-accordion-1 {
     margin-top: 0;
     margin-left: 95px;
-  }
-
-  .u-section-2 .u-container-layout-3 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-2 .u-container-layout-4 {
-    padding-left: 10px;
-    padding-right: 10px;
   }
 
   .u-section-2 .u-container-layout-5 {
@@ -592,10 +595,6 @@
 
   .u-section-2 .u-btn-1 {
     margin-top: -20px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 100px;
   }
 
   .u-section-2 .u-accordion-1 {
@@ -656,7 +655,8 @@
 
 .u-section-3 .u-image-1 {
   min-height: 384px;
-  background-image: url("images/default-image.jpg");
+  background-image: url("images/DSC00875.JPG");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -682,7 +682,8 @@
 
 .u-section-3 .u-image-2 {
   min-height: 378px;
-  background-image: url("images/default-image.jpg");
+  background-image: url("images/DSC_0522.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-3 {
@@ -724,7 +725,8 @@
 
 .u-section-3 .u-image-3 {
   min-height: 367px;
-  background-image: url("images/default-image.jpg");
+  background-image: url("images/istockphoto-520690051-612x6123.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-6 {
@@ -750,7 +752,8 @@
 
 .u-section-3 .u-image-4 {
   min-height: 394px;
-  background-image: url("images/default-image.jpg");
+  background-image: url("images/MH_Mezzanine_NoOutlets.png");
+  background-position: 17.74% 50%;
 }
 
 .u-section-3 .u-container-layout-7 {

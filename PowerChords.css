@@ -442,7 +442,6 @@
 .u-section-4 .u-accordion-pane-1 {
   min-height: 176px;
   background-image: none;
-  height: auto;
   margin-right: auto;
   margin-left: auto;
 }
@@ -481,7 +480,6 @@
 .u-section-4 .u-accordion-pane-2 {
   min-height: 176px;
   background-image: none;
-  height: auto;
   margin-right: auto;
   margin-left: auto;
 }
@@ -509,7 +507,6 @@
 .u-section-4 .u-accordion-pane-3 {
   min-height: 176px;
   background-image: none;
-  height: auto;
   margin-right: auto;
   margin-left: auto;
 }
@@ -536,7 +533,6 @@
 .u-section-4 .u-accordion-pane-4 {
   min-height: 176px;
   background-image: none;
-  height: auto;
   margin-right: auto;
   margin-left: auto;
 }
@@ -566,13 +562,29 @@
     margin-bottom: 31px;
   }
 
+  .u-section-4 .u-accordion-pane-1 {
+    height: auto;
+  }
+
+  .u-section-4 .u-accordion-pane-2 {
+    height: auto;
+  }
+
   .u-section-4 .u-text-2 {
     margin-right: 0;
     margin-left: 0;
   }
 
+  .u-section-4 .u-accordion-pane-3 {
+    height: auto;
+  }
+
   .u-section-4 .u-text-3 {
     margin-right: 0;
+  }
+
+  .u-section-4 .u-accordion-pane-4 {
+    height: auto;
   }
 }
 
