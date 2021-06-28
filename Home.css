@@ -286,16 +286,6 @@
   margin: 30px 30px 0;
 }
 
-.u-section-2 .u-btn-2 {
-  border-style: solid;
-  font-size: 0.875rem;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  background-image: none;
-  font-weight: normal;
-  margin: 10px auto 0 30px;
-}
-
 .u-section-2 .u-accordion-item-2 {
   margin-top: 10px;
   margin-bottom: 0;
@@ -427,10 +417,6 @@
     margin-right: 26px;
   }
 
-  .u-section-2 .u-btn-2 {
-    margin-left: 26px;
-  }
-
   .u-section-2 .u-text-4 {
     margin-left: 27px;
     margin-right: 27px;
@@ -493,10 +479,6 @@
   .u-section-2 .u-text-3 {
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .u-section-2 .u-btn-2 {
-    margin-left: 0;
   }
 
   .u-section-2 .u-text-4 {
