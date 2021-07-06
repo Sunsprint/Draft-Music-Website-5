@@ -601,13 +601,6 @@
   margin: 28px 28px 0;
 }
 
-.u-section-5 .u-btn-1 {
-  border-style: solid;
-  font-weight: 700;
-  text-transform: uppercase;
-  margin: 28px auto 0;
-}
-
 .u-section-5 .u-layout-cell-2 {
   min-height: 634px;
 }
@@ -650,13 +643,6 @@
 
 .u-section-5 .u-text-6 {
   margin: 28px 28px 0;
-}
-
-.u-section-5 .u-btn-2 {
-  border-style: solid;
-  font-weight: 700;
-  text-transform: uppercase;
-  margin: 28px auto 0;
 }
 
 @media (max-width: 1199px) {
