@@ -681,7 +681,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 506px;
-  background-image: url("images/favicon1.png");
+  background-image: url("images/110410-8231.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
 }
@@ -691,7 +691,7 @@
 }
 
 .u-section-4 .u-image-2 {
-  background-image: url("images/favicon1.png");
+  background-image: url("images/110410-8229.jpg");
   background-position: 50% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
@@ -703,7 +703,7 @@
 
 .u-section-4 .u-image-3 {
   min-height: 253px;
-  background-image: url("images/favicon1.png");
+  background-image: url("images/110410-8197.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
 }
@@ -713,7 +713,7 @@
 }
 
 .u-section-4 .u-image-4 {
-  background-image: url("images/favicon1.png");
+  background-image: url("images/110410-8525.jpg");
   background-position: 50% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
@@ -724,7 +724,7 @@
 }
 
 .u-section-4 .u-image-5 {
-  background-image: url("images/favicon1.png");
+  background-image: url("images/110410-8298.jpg");
   background-position: 50% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
@@ -735,7 +735,7 @@
 }
 
 .u-section-4 .u-image-6 {
-  background-image: url("images/favicon1.png");
+  background-image: url("images/110410-8308.jpg");
   background-position: 50% 50%;
   min-height: 254px;
   animation-duration: 1000ms;
@@ -746,7 +746,7 @@
 }
 
 .u-section-4 .u-image-7 {
-  background-image: url("images/favicon1.png");
+  background-image: url("images/IMG_27161.jfif");
   background-position: 50% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
@@ -974,8 +974,8 @@
 
 .u-section-5 .u-video-1 {
   height: 234px;
-  margin-top: 0;
-  margin-bottom: 0;
+  width: 565px;
+  margin: 0 -3px 0 3px;
 }
 
 .u-section-5 .embed-responsive-1 {
@@ -1022,35 +1022,6 @@
   margin: 15px auto 0;
 }
 
-.u-section-5 .u-layout-cell-3 {
-  min-height: 344px;
-}
-
-.u-section-5 .u-container-layout-3 {
-  padding: 0;
-}
-
-.u-section-5 .u-video-3 {
-  height: 234px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-5 .embed-responsive-3 {
-  position: absolute;
-}
-
-.u-section-5 .u-text-6 {
-  font-weight: 700;
-  margin: 15px 8px 0 4px;
-}
-
-.u-section-5 .u-text-7 {
-  font-size: 1rem;
-  width: 185px;
-  margin: 15px auto 0;
-}
-
 .u-section-5 .u-line-1 {
   width: 1000px;
   height: 3px;
@@ -1083,6 +1054,12 @@
     min-height: 284px;
   }
 
+  .u-section-5 .u-video-1 {
+    width: 307px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
   .u-section-5 .u-text-2 {
     margin-left: 0;
     margin-right: 0;
@@ -1105,15 +1082,6 @@
     margin-left: 57px;
   }
 
-  .u-section-5 .u-layout-cell-3 {
-    min-height: 284px;
-  }
-
-  .u-section-5 .u-text-6 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
   .u-section-5 .u-line-1 {
     width: 940px;
   }
@@ -1128,6 +1096,10 @@
     min-height: 100px;
   }
 
+  .u-section-5 .u-video-1 {
+    width: 233px;
+  }
+
   .u-section-5 .u-layout-cell-2 {
     min-height: 100px;
   }
@@ -1135,10 +1107,6 @@
   .u-section-5 .u-text-5 {
     margin-right: 21px;
     margin-left: 20px;
-  }
-
-  .u-section-5 .u-layout-cell-3 {
-    min-height: 100px;
   }
 
   .u-section-5 .u-line-1 {
@@ -1224,7 +1192,7 @@
 
 .u-section-6 .u-image-1 {
   min-height: 506px;
-  background-image: url("images/favicon1.png");
+  background-image: url("images/120311-8341.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
 }
@@ -1234,7 +1202,7 @@
 }
 
 .u-section-6 .u-image-2 {
-  background-image: url("images/favicon1.png");
+  background-image: url("images/744F3177.JPG");
   background-position: 50% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
@@ -1246,7 +1214,7 @@
 
 .u-section-6 .u-image-3 {
   min-height: 253px;
-  background-image: url("images/favicon1.png");
+  background-image: url("images/120311-8329.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
 }
@@ -1256,7 +1224,7 @@
 }
 
 .u-section-6 .u-image-4 {
-  background-image: url("images/favicon1.png");
+  background-image: url("images/120311-8454.jpg");
   background-position: 50% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
@@ -1267,7 +1235,7 @@
 }
 
 .u-section-6 .u-image-5 {
-  background-image: url("images/favicon1.png");
+  background-image: url("images/120311-8831.jpg");
   background-position: 50% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
@@ -1278,7 +1246,7 @@
 }
 
 .u-section-6 .u-image-6 {
-  background-image: url("images/favicon1.png");
+  background-image: url("images/120311-8751.jpg");
   background-position: 50% 50%;
   min-height: 254px;
   animation-duration: 1000ms;
@@ -1289,7 +1257,7 @@
 }
 
 .u-section-6 .u-image-7 {
-  background-image: url("images/favicon1.png");
+  background-image: url("images/120311-8813.jpg");
   background-position: 50% 50%;
   min-height: 253px;
   animation-duration: 1000ms;
