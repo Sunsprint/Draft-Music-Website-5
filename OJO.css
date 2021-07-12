@@ -167,7 +167,7 @@
 }
 
 .u-section-3 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/110410-8196.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/Capture1.PNG");
   background-position: 50% 50%;
 }
 
@@ -359,18 +359,8 @@
 }
 
 .u-section-4 .u-text-1 {
-  line-height: 1.8;
+  line-height: 32.4px;
   margin: 0;
-}
-
-.u-section-4 .u-btn-1 {
-  border-style: solid;
-  margin-left: 0;
-  margin-right: 0;
-  text-transform: uppercase;
-  font-size: 0.875rem;
-  letter-spacing: 2px;
-  font-weight: 400;
 }
 
 .u-section-4 .u-accordion-link-2 {
@@ -385,7 +375,7 @@
 }
 
 .u-section-4 .u-accordion-pane-2 {
-  min-height: 274px;
+  min-height: 155px;
   background-image: none;
 }
 
@@ -415,7 +405,7 @@
 }
 
 .u-section-4 .u-accordion-pane-3 {
-  min-height: 150px;
+  min-height: 155px;
   background-image: none;
 }
 
