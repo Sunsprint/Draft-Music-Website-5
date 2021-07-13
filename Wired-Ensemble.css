@@ -139,7 +139,8 @@
   width: 1077px;
   min-height: 223px;
   animation-duration: 1000ms;
-  margin: 0 71px 0 auto;
+  height: auto;
+  margin: 0 auto;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -210,7 +211,7 @@
 
   .u-section-3 .u-group-1 {
     width: 880px;
-    margin-right: 0;
+    height: auto;
   }
 
   .u-section-3 .u-text-1 {
