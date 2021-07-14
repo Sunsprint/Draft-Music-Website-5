@@ -139,7 +139,6 @@
   width: 1077px;
   min-height: 199px;
   animation-duration: 1000ms;
-  height: auto;
   margin: 0 auto;
 }
 
@@ -246,7 +245,6 @@
 
   .u-section-3 .u-group-1 {
     width: 880px;
-    height: auto;
   }
 
   .u-section-3 .u-container-layout-2 {
@@ -525,6 +523,10 @@
 
 .u-section-4 .u-container-layout-4 {
   padding: 30px;
+}
+
+.u-section-4 .u-text-5 {
+  margin-top: 0;
 }
 
 @media (max-width: 1199px) {
