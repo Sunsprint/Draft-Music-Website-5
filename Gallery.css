@@ -451,18 +451,22 @@
 
 .u-section-3 .u-carousel-control-1 {
   position: absolute;
-  left: 10px;
-  width: 50px;
-  height: 50px;
-  top: 117px;
+  left: 14px;
+  width: 40px;
+  height: 40px;
+  top: 155px;
+  background-image: none;
+  right: auto;
 }
 
 .u-section-3 .u-carousel-control-2 {
   position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 158px;
+  background-image: none;
+  left: auto;
   right: 10px;
-  width: 50px;
-  height: 50px;
-  top: 117px;
 }.u-section-4 .u-sheet-1 {
   min-height: 526px;
 }
