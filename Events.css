@@ -533,7 +533,6 @@
   grid-template-columns: calc(50% - 5px) calc(50% - 5px);
   grid-gap: 10px 10px;
   min-height: 646px;
-  grid-auto-columns: calc(50% - 5px);
 }
 
 .u-section-2 .u-image-16 {
@@ -1166,7 +1165,6 @@
 
   .u-section-2 .u-repeater-4 {
     grid-template-columns: calc(50% - 5px) calc(50% - 5px);
-    grid-auto-columns: calc(100% - 0px);
   }
 
   .u-section-2 .u-text-39 {
@@ -1346,7 +1344,6 @@
 
   .u-section-2 .u-repeater-4 {
     grid-template-columns: 100%;
-    grid-auto-columns: 100%;
   }
 
   .u-section-2 .u-container-layout-20 {
