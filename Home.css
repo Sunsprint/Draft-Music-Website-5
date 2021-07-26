@@ -1,69 +1,3 @@
-.u-body .u-search-result-container {
-  position: relative;
-  max-width: 200px;
-  font-family: montserrat;
-}
-
-.u-body .u-search-input * {
-  transition: background 0.15s, box-shadow 0.15s;
-}
-
-.u-body .u-search-input, .u-search-result-container {
-  border-radius: 5px;
-}
-
-.u-search-result-container {
-  /* display: flex; */
-  box-sizing: border-box;
-  width: 100%;
-  padding: 6px;
-  background: #333;
-  max-height: 250px;
-  overflow-y: auto;
-  /* visibility: hidden;
-  opacity: 0; */
-  transition: visibility 0.1s, opacity 0.1s;
-}
-
-.u-search-result-container-visible {
-  visibility: visible;
-  opacity: 1;
-}
-
-.u-search-result, .title, .subtitle {
-  display: block;
-  color: #FFFFFF;
-  text-decoration: none;
-  padding: 10px;
-  font-size: 0.6em;
-  cursor: pointer;
-}
-
-.u-search-result:hover {
-  background: #5E5E5E;
-}
-
-.u-search-result:not(:last-of-type) {
-  border-bottom: 1px solid #5E5E5E;
-}
-
-.title {
-  font-size: 2em;
-  font-weight: bold;
-}
-
-.paragraph {
-  line-height: 1.5;
-  margin: 8px 0;
-}
-
-
-
-
-
-
-
-
 .u-section-1 {
   background-image: url("images/er.jpg");
   background-position: 50% 50%;
@@ -124,7 +58,7 @@
 .u-section-1 .u-image-1 {
   min-height: 691px;
   background-image: url("images/Copyof121217-3203a.jpg");
-  background-position: 50% 50%;
+  background-position: 50% 20.07%;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -152,6 +86,7 @@
 
   .u-section-1 .u-image-1 {
     min-height: 570px;
+    background-position: 50% 0%;
   }
 }
 
@@ -243,8 +178,8 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 578px;
-    background-position: 13.1% 50%;
+    min-height: 694px;
+    background-position: 13.1% 8.74%;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -291,7 +226,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 364px;
+    min-height: 483px;
   }
 }.u-section-2 {
   background-image: none;
@@ -330,14 +265,14 @@
 
 .u-section-2 .u-shape-2 {
   width: 822px;
-  height: 184px;
+  height: 204px;
   background-image: none;
   margin: 10px auto 0 -172px;
 }
 
 .u-section-2 .u-text-2 {
   line-height: 29px;
-  margin: -139px 31px 0 30px;
+  margin: -159px 31px 0 30px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -641,8 +576,9 @@
   }
 
   .u-section-2 .u-shape-2 {
-    width: 705px;
-    margin-left: -95px;
+    width: 640px;
+    margin-left: -50px;
+    margin-right: -50px;
   }
 
   .u-section-2 .u-btn-1 {
@@ -730,7 +666,7 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 417px;
+    min-height: 455px;
   }
 
   .u-section-2 .u-text-1 {
@@ -738,13 +674,15 @@
   }
 
   .u-section-2 .u-shape-2 {
-    width: 520px;
-    margin-left: -157px;
+    height: 216px;
+    width: 413px;
+    margin-top: 50px;
+    margin-right: auto;
   }
 
   .u-section-2 .u-text-2 {
     width: auto;
-    margin-top: -150px;
+    margin-top: -181px;
     margin-right: -10px;
     margin-left: 10px;
   }
@@ -776,7 +714,7 @@
   letter-spacing: 7px;
   line-height: 1;
   font-weight: 400;
-  margin: 139px 0 0;
+  margin: 177px 0 0;
 }
 
 .u-section-3 .u-text-2 {
@@ -787,16 +725,6 @@
 
 .u-section-3 .u-text-3 {
   margin: 28px 0 0;
-}
-
-.u-section-3 .u-btn-1 {
-  letter-spacing: 3px;
-  font-size: 1.25rem;
-  border-style: none;
-  text-transform: uppercase;
-  font-weight: 400;
-  background-image: none;
-  margin: 30px auto 0 0;
 }
 
 .u-section-3 .u-layout-wrap-1 {
@@ -821,7 +749,7 @@
   margin: 0 auto;
 }
 
-.u-section-3 .u-btn-2 {
+.u-section-3 .u-btn-1 {
   letter-spacing: 3px;
   font-size: 1.25rem;
   border-style: none;
@@ -848,7 +776,7 @@
   margin: 0 auto;
 }
 
-.u-section-3 .u-btn-3 {
+.u-section-3 .u-btn-2 {
   letter-spacing: 3px;
   font-size: 1.25rem;
   border-style: none;
@@ -891,7 +819,7 @@
   margin: 0 auto;
 }
 
-.u-section-3 .u-btn-4 {
+.u-section-3 .u-btn-3 {
   letter-spacing: 3px;
   font-size: 1.25rem;
   border-style: none;
@@ -918,7 +846,7 @@
   margin: 0 auto;
 }
 
-.u-section-3 .u-btn-5 {
+.u-section-3 .u-btn-4 {
   letter-spacing: 3px;
   font-size: 1.25rem;
   border-style: none;
@@ -1144,7 +1072,7 @@
   line-height: 1.3;
   font-size: 5rem;
   text-transform: uppercase;
-  margin: 0;
+  margin: 30px 0 0;
 }
 
 .u-section-4 .u-text-2 {
