@@ -461,11 +461,11 @@
 }.u-section-6 .u-sheet-1 {
   min-height: 40px;
 }.u-section-7 .u-sheet-1 {
-  min-height: 716px;
+  min-height: 565px;
 }
 
 .u-section-7 .u-text-1 {
-  margin: 29px auto 0;
+  margin: 48px auto 0;
 }
 
 .u-section-7 .u-shape-1 {
@@ -475,9 +475,8 @@
 }
 
 .u-section-7 .u-layout-wrap-1 {
-  margin-top: -412px;
-  margin-bottom: 60px;
-  margin-right: 0;
+  margin-top: -420px;
+  margin-bottom: 84px;
 }
 
 .u-section-7 .u-layout-cell-1 {
@@ -535,7 +534,7 @@
 
 .u-section-7 .u-image-1 {
   min-height: 404px;
-  background-image: url("images/Capture.PNG");
+  background-image: url("images/OlinMusicLogo.png");
   background-position: 50% 50%;
 }
 
@@ -551,11 +550,6 @@
   .u-section-7 .u-shape-1 {
     width: 336px;
     height: 406px;
-  }
-
-  .u-section-7 .u-layout-wrap-1 {
-    margin-top: -462px;
-    margin-right: initial;
   }
 
   .u-section-7 .u-layout-cell-1 {
@@ -608,19 +602,12 @@
 
   .u-section-7 .u-text-1 {
     width: auto;
-    margin-top: 9px;
     margin-left: 0;
   }
 
   .u-section-7 .u-shape-1 {
     width: 264px;
     height: 460px;
-    margin-top: 115px;
-  }
-
-  .u-section-7 .u-layout-wrap-1 {
-    margin-top: -547px;
-    margin-right: initial;
   }
 
   .u-section-7 .u-layout-cell-1 {
@@ -669,13 +656,7 @@
   .u-section-7 .u-shape-1 {
     width: 446px;
     height: 405px;
-    margin-top: 564px;
     margin-right: -50px;
-  }
-
-  .u-section-7 .u-layout-wrap-1 {
-    margin-top: -960px;
-    margin-right: initial;
   }
 
   .u-section-7 .u-container-layout-1 {
@@ -729,12 +710,6 @@
   .u-section-7 .u-shape-1 {
     width: 340px;
     height: 300px;
-    margin-top: 664px;
-  }
-
-  .u-section-7 .u-layout-wrap-1 {
-    margin-top: -955px;
-    margin-right: initial;
   }
 
   .u-section-7 .u-layout-cell-2 {
@@ -799,11 +774,11 @@
 }
 
 .u-section-8 .u-accordion-pane-1 {
-  min-height: 179px;
+  min-height: 1261px;
   background-image: none;
-  height: auto;
   margin-right: 0;
   margin-left: 0;
+  height: auto;
 }
 
 .u-section-8 .u-container-layout-1 {
@@ -828,11 +803,11 @@
 }
 
 .u-section-8 .u-accordion-pane-2 {
-  min-height: 179px;
+  min-height: 1261px;
   background-image: none;
-  height: auto;
   margin-right: 0;
   margin-left: 0;
+  height: auto;
 }
 
 .u-section-8 .u-container-layout-2 {
@@ -857,11 +832,11 @@
 }
 
 .u-section-8 .u-accordion-pane-3 {
-  min-height: 179px;
+  min-height: 1261px;
   background-image: none;
-  height: auto;
   margin-right: 0;
   margin-left: 0;
+  height: auto;
 }
 
 .u-section-8 .u-container-layout-3 {
@@ -876,7 +851,7 @@
 .u-section-8 .u-repeater-1 {
   grid-gap: 10px 10px;
   grid-template-columns: calc(50% - 5px) calc(50% - 5px);
-  min-height: 3604px;
+  min-height: 1220px;
 }
 
 .u-section-8 .u-container-layout-4 {
@@ -957,7 +932,7 @@
   }
 
   .u-section-8 .u-repeater-1 {
-    min-height: 3068px;
+    min-height: 1038px;
   }
 }
 
